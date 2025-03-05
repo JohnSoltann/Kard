@@ -20,6 +20,8 @@ This project is a digital business card designed for web developers and designer
 
 ![image](https://github.com/user-attachments/assets/7d876564-534c-4789-9411-bffdae989b63)
 
+**I am John soltan** - and this is my youtube Chanell: [(https://www.youtube.com/@Webea)]
+
 
 ## Getting Started
 
