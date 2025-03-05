@@ -18,6 +18,9 @@ This project is a digital business card designed for web developers and designer
 - **Font Awesome:** For icons.
 - **Google Fonts:** For the "Poppins" font.
 
+![image](https://github.com/user-attachments/assets/7d876564-534c-4789-9411-bffdae989b63)
+
+
 ## Getting Started
 
 To use this digital card, simply clone the repository and open the `index.html` file in your web browser.
